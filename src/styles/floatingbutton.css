@@ -1,0 +1,22 @@
+.prebook-button-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000; 
+  }
+  
+  .prebook-button {
+    background-color: #f5b52b;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+  }
+  
+  .prebook-button:hover {
+    background-color: #ffff00;
+  }
+  
